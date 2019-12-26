@@ -1,0 +1,5 @@
+CREATE TABLE test (
+  uname    varchar(10),
+  password int(10)
+);
+select * from test;
